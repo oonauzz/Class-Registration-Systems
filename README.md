@@ -6,6 +6,15 @@ This repository contains the solution for a Course Registration System (CRS) dev
 
 Instructor: Dr. Anasse Bari.
 
+## Learning Objectives
+
+    Designing and engineering a software solution using OOP
+    Practicing Abstraction, Encapsulation, Inheritance, Method Overriding, Method Overloading, and Polymorphism.
+    Sorting of Objects
+    Practicing Abstraction (Abstract Data Types, the ArrayList class, Lists…)
+    File/IO in Java
+    Serialization and Binary Files in Java
+
 ## Functional Requirements
 
     Store information about each course, including course name, ID, maximum number of students, current number of registered students, instructor, section number, and location.
@@ -20,23 +29,6 @@ Instructor: Dr. Anasse Bari.
 
     Provide an overall design of the software, specifying classes, interfaces, relationships, and workflows.
     Explain the implementation of key concepts such as method overloading, method overriding, abstract classes, inheritance, polymorphism, encapsulation, and abstract data types (ADT).
-
-## Learning Objectives
-
-    Designing and engineering a software solution using OOP
-    Practicing Abstraction, Encapsulation, Inheritance, Method Overriding, Method Overloading, and Polymorphism.
-    Sorting of Objects
-    Practicing Abstraction (Abstract Data Types, the ArrayList class, Lists…)
-    File/IO in Java
-    Serialization and Binary Files in Java
-
-## Guidelines
-
-    Attach the Java source files and include them in the HW’s zip file.
-    Make an archive with all the java files (the .java files NOT the .class files).
-    Comment your code (basic comments explaining the role of a class, a method, or variables used in your submission).
-    Compile and run the program before submission.
-    Ensure the Zip file contains your actual latest files. 
 
 ## Author
 
