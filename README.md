@@ -1,11 +1,11 @@
-## University Course Registration System using OOP
+# University Course Registration System using OOP
 
-# Description
+## Description
 
 This repository contains the solution for Homework One of the Data Structures course at New York University's Computer Science Department. The assignment focuses on building a University Course Registration System using Object-Oriented Programming (OOP) principles.
 Instructor: Dr. Anasse Bari
 
-# Learning Objectives
+## Learning Objectives
 
     Designing and engineering a software solution using OOP
     Practicing Abstraction, Encapsulation, Inheritance, Method Overriding, Method Overloading, and Polymorphism.
@@ -14,7 +14,7 @@ Instructor: Dr. Anasse Bari
     File/IO in Java
     Serialization and Binary Files in Java
 
-# Guidelines
+## Guidelines
 
     Attach the Java source files and include them in the HW’s zip file. File name should be YourLastName_HW1.zip.
     Make an archive with all the java files (the .java files NOT the .class files) and post it on NYU Classes.
@@ -27,6 +27,6 @@ Instructor: Dr. Anasse Bari
     50% point deduction for exercises that do not compile and run correctly.
     Plagiarized assignments will receive a ZERO grade. Each student must provide their own solution, without copying from internet sources.
 
-# Author
+## Author
 
     Oona Zhou
